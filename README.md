@@ -1,4 +1,4 @@
-# PRIVATE!!! bitbar-plugins-alexandregz
+# xbar-plugins-alexandregz
 
 My ~~[BitBar](https://github.com/matryer/bitbar)~~ [xbar](https://github.com/matryer/xbar) plugins:
 
