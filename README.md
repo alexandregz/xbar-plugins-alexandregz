@@ -1,6 +1,11 @@
-# bitbar-plugins-alexandregz
+# PRIVATE!!! bitbar-plugins-alexandregz
 
 My ~~[BitBar](https://github.com/matryer/bitbar)~~ [xbar](https://github.com/matryer/xbar) plugins:
+
+
+ - Weather with forecasts: 5 day forecast with a 3-hour step. Ripped from [Daniel Seripap](https://github.com/seripap/), added images from [openweathermap](https://openweathermap.org) (you need API key from openweathermap) and translated to galician.
+ ![Weather with forecasts](weather-with-forecasts-image.png)
+
 
  - Weather with image: ripped from [Daniel Seripap](https://github.com/seripap/), added images from [openweathermap](https://openweathermap.org) (you need API key from openweathermap) and translated to galician
  ![weather with images](weather-bitbar-with-img.png)
